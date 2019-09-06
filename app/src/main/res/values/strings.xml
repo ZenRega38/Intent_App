@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intent joo</string>
+    <string name="move_activity">Just move activity</string>
+    <string name="move_with_data">Move activity but with data</string>
+    <string name="dial_number">Dial a number</string>
+    <string name="data_received">Recieving Data</string>
+    <string name="lalu_dan_yg_akan_datang">Sebelumnya telah lulus dari SMPN 1 Tarakan,
+        dan sekarang sedang menempuh bidang studi Software Engineering
+        di SMK IDN Boarding School. Insyaalah bisa membahagiakan orang tua
+        dengan menjadi anak yg sholeh, akan menjadi bagian dari PPI Turki dan akan
+        membangun start-up company kelas Deca-corn.</string>
+    <string name="buruknya">Mageran, tapi sekali niat, tidur pun gk butuh.</string>
+    <string name="tentang_waktu">15 tahun (15 Agustus 2004)</string>
+    <string name="baiknya">Baik hati, rajin menabung, penyayang dan setia (aseeque). Hidup dengan moto "Salam Sapa Sopan Santuy" </string>
+    <string name="latar_belakang">Anak ke 5 dari 5 bersaudara, dari perpaduan insan yg berdarah Sunda (Ibu) dan Jawa (Ayah). Lahir dan tumbuh di Kota Tarakan, kota kecil penuh cinta dan sejarah tersembunyi. Pindah ke Bogor untuk menempuh jenjang SMK setelah sebelumnya menghirup udara Pare.</string>
+    <string name="tambahan">Penjelasan sedikit, aplikasi ini saya buat untuk latihan "Intent, String, Dial a Number, Views and Views dan POJO (move activity with object)"</string>
+
+</resources>
