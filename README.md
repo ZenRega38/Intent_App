@@ -1,3 +1,3 @@
 Project #2 Intent_App
 
-![alt text](https://i.imgur.com/6DvVxp7.png)
+![alt text](https://i.imgur.com/Y1TgsoZ.png)
